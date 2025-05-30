@@ -1,8 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+###
+
 <div align="center">
+
   <a href="mailto:amrmagdy722@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
@@ -16,13 +19,26 @@
   </a>
 </div>
 
-<h1 align="center">Hey there 👋</h1>
+
+###
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">Hey 👋, I'm Amr from Egypt. I’m passionate about machine learning🤖, data science📊, and software development👨‍💻<br><br>- 🎓 Senior-1 Computer Engineering student at the Faculty of Engineering, Cairo University<br>- 🔭 Currently, I'm learning more about LLMs, computer vision, and back-end development</p><br>- 🚀 Open to collaborate on machine learning and software projects<br>
+###
+
+<p align="left">Hey 👋, I'm Amr from Egypt. I’m passionate aboutmachine learning🤖, data science📊, and software development👨‍💻<br><br>- 🎓 Senior-1 Computer Engineering student at the Faculty of Engineering, Cairo University<br>- 🔭 🔭 Currently, I'm learning more about LLMs, computer vision, and back-end development.</p><br>- 🚀 Open to colaborate on machine learning and software projects<br>
+
+###
 
 <h3 align="left">🛠 Languages</h3>
+
+###
 
 <div align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -61,7 +77,11 @@
   <img width="12" />
 </div>
 
+###
+
 <h3 align="left">🛠 Frameworks / Databases / Tools</h3>
+
+###
 
 <div align="left">
   <a href="https://pytorch.org/" target="_blank">
@@ -109,3 +129,5 @@
   </a>
   <img width="12" />
 </div>
+
+###
