@@ -24,14 +24,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Computer Engineering student at Cairo University with expertise in:
+**I'm a passionate Computer Engineering student at Cairo University with expertise in:**
 - 🤖 Machine Learning & Deep Learning
 - 📊 Data Science
 - 💻 Software Development
 
-🔭 **Currently learning:** LLMs, Computer Vision, and Backend Development  
-🚀 **Open to collaborate** on interesting ML and software projects  
-🎓 **Senior-1** Computer Engineering student at Cairo University
+🔭 Currently learning: **LLMs, Computer Vision, and Backend Development**  
+🚀 Open to collaborate on interesting **ML and software projects**  
+🎓 I'm looking for help with **Brain-Computer Interfaces (BCIs)**
 
 ---
 
