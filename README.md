@@ -34,6 +34,9 @@
 
 <p align="left"><b>Hey 👋, I'm Amr from Egypt. I’m passionate about machine learning🤖, data science📊, and software development👨‍💻. 🎓 I'm a senior-1 Computer Engineering student at the Faculty of Engineering, Cairo University</b><br>- 🔭 Currently, I'm learning more about LLMs, computer vision, and back-end development.<br>- 🚀 Open to collaborate on machine learning and software projects<br>
 
+<h3 align="left">📧 Reach Me</h3>
+<p align="left">You can contact me via email: <a href="mailto:amrmagdy722@gmail.com">amrmagdy722@gmail.com</a></p>
+
 ###
 
 <h3 align="left">🛠 Languages</h3>
