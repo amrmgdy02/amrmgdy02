@@ -5,7 +5,7 @@
   
   <h1>Hey there! 👋 I'm Amr Magdy</h1>
   
-  <h3>Machine Learning Engineer | Data Scientist | Software Developer</h3>
+  <h3>Computer Engineering Student</h3>
   
   <div>
     <a href="https://www.linkedin.com/in/amr-magdy-419099252" target="_blank">
@@ -26,7 +26,7 @@
 
 I'm a passionate Computer Engineering student at Cairo University with expertise in:
 - 🤖 Machine Learning & Deep Learning
-- 📊 Data Science & Analytics
+- 📊 Data Science
 - 💻 Software Development
 
 🔭 **Currently learning:** LLMs, Computer Vision, and Backend Development  
@@ -77,8 +77,8 @@ I'm a passionate Computer Engineering student at Cairo University with expertise
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amrmgdy02&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrmgdy02&layout=compact&theme=radical" />
 </div>
 
 ---
