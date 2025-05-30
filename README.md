@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left"><b>Hey 👋, I'm Amr from Egypt. I’m passionate about machine learning🤖, data science📊, and software development👨‍💻.</b> 🎓 I'm a senior-1 Computer Engineering student at the Faculty of Engineering, Cairo University<br><br>- 🔭 Currently, I'm learning more about LLMs, computer vision, and back-end development.<br>- 🚀 Open to collaborate on machine learning and software projects<br>
+<p align="left"><b>Hey 👋, I'm Amr from Egypt. I’m passionate about machine learning🤖, data science📊, and software development👨‍💻. 🎓 I'm a senior-1 Computer Engineering student at the Faculty of Engineering, Cairo University</b><br>- 🔭 Currently, I'm learning more about LLMs, computer vision, and back-end development.<br>- 🚀 Open to collaborate on machine learning and software projects<br>
 
 ###
 
