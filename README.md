@@ -31,7 +31,6 @@
 
 🔭 Currently learning: **LLMs, Computer Vision, and Backend Development**  
 🚀 Open to collaborate on interesting **ML and software projects**  
-🎓 I'm looking for help with **Brain-Computer Interfaces (BCIs)**
 
 ---
 
