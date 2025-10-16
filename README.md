@@ -29,9 +29,6 @@
 - 📊 Data Science
 - 💻 Software Development
 
-🔭 Currently learning: **LLMs, Computer Vision, and Backend Development**  
-🚀 Open to collaborate on interesting **ML and software projects**  
-
 ---
 
 ### 🛠 Tech Stack
